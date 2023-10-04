@@ -65,7 +65,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 - cd `Enumerable`
-- `git clone https://github.com/Naledi-Dikgale/enumerable.git`
+- `git clone https://github.com/Zuwairanajma/Enumerable.git`
 
 
 ### Install
@@ -121,7 +121,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Naledi-Dikgale/enumerable/issues).
+Feel free to check the [issues page](https://github.com/Zuwairanajma/Enumerable/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
